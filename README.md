@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on backend
-- 🌱 I’m currently learning event sourcing architecture
+- 🔭 I’m currently working on backend with event sourcing
+- 🌱 I’m currently learning Svelte
 
 ##
 
