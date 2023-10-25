@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on backend with event sourcing
-- 🌱 I’m currently learning Svelte
+- 🔭 I’m currently working on Wisdom personal project
+- 🌱 I’m currently learning architecture designs 
 
 ##
 
