@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Wisdom personal project
-- 🌱 I’m currently learning architecture designs 
+- 🔭 I’m currently working with 2Toucans projects
+- 🌱 I’m currently learning PHP, Twig and Symfony.
 
 ##
 
