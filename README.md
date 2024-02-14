@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## About me
+##  Hi there 👋
 
 - 🤔 Learning about Drupal Development.
 - 💼 Working as {Full Stack Dev} on {2Toucans}.
