@@ -1,8 +1,6 @@
 ##  Hi there 👋
 
-- 🤔 Learning about Drupal Development.
-- 💼 Working as {Full Stack Dev} on {2Toucans}.
-- 🌱 Mentoring Interns on their journeys :)
+- 💼 Working as {Full Stack Software Enginner} on {Gupy}.
 
 ##
 
