@@ -1,6 +1,6 @@
 ##  Hi there 👋
 
-- 💼 Working as {Full Stack Software Enginner} on {Gupy}.
+- 💼 Working as {Full Stack Software Enginner} at {Gupy}.
 
 ##
 
