@@ -5,7 +5,10 @@
 ##
 
 <div align="center">
-
+  <a href="https://github.com/GabrielaRsanches">
+ 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaRsanches&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
